@@ -7,3 +7,5 @@
 ### 3 Class: Rock Paper Scissors
 
 ### ResNet34 w/ image augmentations
+
+# Date: 2021-01-27
